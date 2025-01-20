@@ -84,7 +84,7 @@
           Supply
         </div>
         <div class="textOpenSans font-weight-bold" >
-          1,000,000,000,000 ( 1 Billion )
+          1,000,000,000 ( 1 Billion )
         </div>
       </div>
 
