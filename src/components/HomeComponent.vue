@@ -96,13 +96,34 @@
           Pump.fun
         </div>
       </div>
-
       <div class="text-center mb-8">
         <div class="col-12 mb-2">
           Token Address
         </div>
         <div class="textOpenSans font-weight-bold" >
           Coming Soon...
+        </div>
+      </div>
+      <div class="d-flex justify-center my-14">
+        <v-divider></v-divider>
+      </div>
+      <div class="v-row justify-center mt-4">
+        <div class="v-col-12 text-center font-italic powered-by-txt">Powered By — </div>
+        <div
+          class="v-col-auto"
+        >
+
+          <a
+            class="text-decoration-none"
+            href=" https://t.me/+mJExH8tmqHRhZGE5"
+            rel="noopener noreferrer"
+            target="_blank"
+          >
+            <v-img
+              src="@/assets/antirug.jpeg"
+              width="50"
+            ></v-img>
+          </a>
         </div>
       </div>
 <!--      <div class="d-flex justify-center my-10">-->
