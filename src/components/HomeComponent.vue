@@ -108,7 +108,7 @@
           Token Address
         </div>
         <div class="textOpenSans font-weight-bold" >
-          Coming Soon...
+          <a href="https://solscan.io/token/4JWL1QDsPgJDHEovzvo4K875j85ybu3jPdnE34bxpump">4JWL1QDsPgJDHEovzvo4K875j85ybu3jPdnE34bxpump</a>
         </div>
       </div>
       <div class="d-flex justify-center my-14">
