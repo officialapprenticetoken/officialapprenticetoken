@@ -62,10 +62,17 @@
             <v-icon size="50">fa-brands  fa-x-twitter</v-icon>
           </v-btn>
         </v-col>
-
         <v-col cols="auto">
           <!-- DexScreener Button -->
-          <v-btn disabled size="50" flat color="white">
+          <v-btn size="50" flat color="white" @click="openLink('https://pump.fun/coin/4JWL1QDsPgJDHEovzvo4K875j85ybu3jPdnE34bxpump')">
+            <v-icon size="40">
+              <img src="@/assets/Pump_fun_logo.png" style="width: 100%;" alt="pumpfun" />
+            </v-icon>
+          </v-btn>
+        </v-col>
+        <v-col cols="auto">
+          <!-- DexScreener Button -->
+          <v-btn size="50" flat color="white" @click="openLink('https://dexscreener.com/solana/2ucvbwtdvnfyxxuk3hxpkvytee7kvdskztu8ubm1h3qh')">
             <v-icon size="40">
               <img src="@/assets/dex-screener-seeklogo.svg" style="width: 100%;" alt="dexscreener" />
             </v-icon>
