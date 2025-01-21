@@ -72,7 +72,7 @@
         </v-col>
         <v-col cols="auto">
           <!-- DexScreener Button -->
-          <v-btn size="50" flat color="white" @click="openLink('https://dexscreener.com/solana/2ucvbwtdvnfyxxuk3hxpkvytee7kvdskztu8ubm1h3qh')">
+          <v-btn size="50" flat color="white" @click="openLink('https://dexscreener.com/solana/7r1wcdfgqfiorpjw91zoe3uvzoupv76akgecgqq4f6ef')">
             <v-icon size="40">
               <img src="@/assets/dex-screener-seeklogo.svg" style="width: 100%;" alt="dexscreener" />
             </v-icon>
