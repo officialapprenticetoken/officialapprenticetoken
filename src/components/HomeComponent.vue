@@ -57,7 +57,7 @@
             size="50"
             flat
             color="white"
-            @click="openLink('https://twitter.com')"
+            @click="openLink('https://x.com/antirugdev')"
           >
             <v-icon size="50">fa-brands  fa-x-twitter</v-icon>
           </v-btn>
